@@ -35,5 +35,5 @@
 
 **Bước 1: Tải mã nguồn về máy**
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/anhpt-udu-ptit/BankManagerment](https://github.com/anhpt-udu-ptit/BankManagerment)
+cd BankManagerment
