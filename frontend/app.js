@@ -310,7 +310,7 @@ async function handleChangePasswordSubmit(event) {
     }
 }
 
-// Hàm 8: Đăng xuất
+// Hàm 9: Đăng xuất
 function handleLogout() {
     currentUserId = null;
     authToken = null;
