@@ -35,5 +35,5 @@
 
 **Bước 1: Tải mã nguồn về máy**
 ```bash
-git clone [https://github.com/anhpt-udu-ptit/BankManagerment](https://github.com/anhpt-udu-ptit/BankManagerment)
+git clone https://github.com/anhpt-udu-ptit/BankManagerment
 cd BankManagerment
